@@ -1,0 +1,16 @@
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.exe
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.deps.json
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.runtimeconfig.json
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.runtimeconfig.dev.json
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.dll
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\ref\gcDeliverable1.dll
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\bin\Debug\net5.0\gcDeliverable1.pdb
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.csproj.AssemblyReference.cache
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.AssemblyInfoInputs.cache
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.AssemblyInfo.cs
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.csproj.CoreCompileInputs.cache
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.dll
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\ref\gcDeliverable1.dll
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.pdb
+C:\Users\brige\source\repos\gcDeliverable1\gcDeliverable1\obj\Debug\net5.0\gcDeliverable1.genruntimeconfig.cache
